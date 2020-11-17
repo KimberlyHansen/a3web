@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FFC65C;
+    background-color: #104F55;
     position: fixed;
     top: 0;
     width: 100%;
@@ -25,9 +25,21 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #104F55;
+  background-color: #FFC65C;
 }
 
 .active {
   background-color: #A31621;
+}
+h1 {
+  margin-top: 100px;
+  font-family: archer, arial;
+  color: #01200F
+}
+p {
+  font-family: archer, arial;
+  color: #01200F
+}
+h2 {
+  color: #01200F;
 }
