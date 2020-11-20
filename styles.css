@@ -88,9 +88,3 @@ li a:hover:not(.active) {
     background-repeat: no-repeat;
     background-color: #000;
   }
-video {
-  width: 1280px; 
-  height: 720px;
-  margin-left: -129px;
-  margin-top: 0px;
-  }
