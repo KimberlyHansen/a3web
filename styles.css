@@ -10,7 +10,6 @@ ul {
     padding: 10px;
     overflow: hidden;
     background-color: #104F55;
-    color: #FFC65C;
     position: fixed;
     top: 0;
     width: 100%;
@@ -20,7 +19,7 @@ li {
 }
 li a {
   display: block;
-  color: #01200F;
+  color: #FFC65C;;
   font: bold;
   text-align: center;
   padding: 14px 16px;
@@ -28,9 +27,11 @@ li a {
 }
 li a:hover:not(.active) {
   background-color: #FFC65C;
+  color: #01200F;
 }
 .active {
   background-color: #A31621;
+  color: #01200F;
 }
 /* Title */
 .pagetitle
