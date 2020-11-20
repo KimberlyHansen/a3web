@@ -6,10 +6,11 @@ body {
 /* Navigation bar */
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 25px;
+    padding: 10px;
     overflow: hidden;
     background-color: #104F55;
+    font: #FFC65C
     position: fixed;
     top: 0;
     width: 100%;
@@ -37,6 +38,7 @@ li a:hover:not(.active) {
     margin-top: 100px;
     font-family: archer, arial;
     font-size: 26px;
+    font: bold;
     text-align: center;
     padding-top: 55px;
     padding-left: 90px;
@@ -46,6 +48,7 @@ li a:hover:not(.active) {
   p {
     font-family: archer, arial;
     font-size: 20px;
+    font: bold;
     text-align: center;
     padding-top: 55px;
     padding-left: 90px;
