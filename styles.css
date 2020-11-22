@@ -91,14 +91,16 @@ li a:hover:not(.active) {
 /*dropdown menu on plan your trip page-jessica*/
 .dropbtn {
   background-color: #104F55;
-  color: w#FFFFFF;
-  padding: 16px;
-  font-size: 18px;
+  color: #FFFFFF;
+  padding: 8px;
+  font-size: 16px;
   border: none;
   }
   
 .dropdown {
-  position: relative;
+  position: fixed;
+  bottom:10;
+  top:6;
   display: inline-block;
     
   }
