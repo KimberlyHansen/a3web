@@ -1,7 +1,7 @@
 /* GeneralStyle */
 /* Section contributed and owned by Kimberly Hansen */
 body {
-    background-color: #A7E2F1
+    background-color: #D9DCD6
   }
 /* Navigation bar */
 ul {
@@ -9,7 +9,7 @@ ul {
     margin: 25px;
     padding: 10px;
     overflow: hidden;
-    background-color: #104F55;
+    background-color: #2F6690;
     position: fixed;
     top: 0;
     width: 100%;
@@ -19,19 +19,19 @@ li {
 }
 li a {
   display: block;
-  color: #FFC65C;;
+  color: #D9DCD6;;
   font: bold;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 li a:hover:not(.active) {
-  background-color: #FFC65C;
-  color: #01200F;
+  background-color: #D9DCD6;
+  color: #16425B;
 }
 .active {
-  background-color: #A31621;
-  color: #01200F;
+  background-color: #16425B;
+  color: #D9DCD6;
 }
 /* Title */
 .pagetitle
@@ -44,7 +44,7 @@ li a:hover:not(.active) {
     padding-top: 55px;
     padding-left: 90px;
     padding-right: 100px;
-    color: #01200F
+    color: #16425B
   }
   p {
     font-family: archer, arial;
@@ -54,10 +54,10 @@ li a:hover:not(.active) {
     padding-top: 55px;
     padding-left: 90px;
     padding-right: 100px;
-    color: #01200F
+    color: #16425B
   }
   h2 {
-    color: #01200F;
+    color: #16425B;
   }
 /* Page Body */
 .pagebody
@@ -69,14 +69,14 @@ li a:hover:not(.active) {
     padding-top: 55px;
     padding-left: 90px;
     padding-right: 100px;
-    color: #01200F
+    color: #16425B
   }
   p {
     font-family: archer, arial;
-    color: #01200F
+    color: #16425B
   }
   h2 {
-    color: #01200F;
+    color: #16425B;
   }
 /* Background video */
 .videocontainer
@@ -88,43 +88,37 @@ li a:hover:not(.active) {
     background-repeat: no-repeat;
     background-color: #000;
   }
-/*dropdown menu on plan your trip page-jessica*/
+/* dropdown menu on plan your trip page-jessica */
 .dropbtn {
   background-color: #104F55;
-  color: #FFFFFF;
+  color: #D9DCD6;
   padding: 8px;
   font-size: 16px;
   border: none;
   }
-  
 .dropdown {
   position: relative;
   bottom:10;
   top:6;
   display: inline-block;
-    
   }
-  
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #FFC65C;
+  background-color: #2F6690;
   min-width: 60px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   }
-  
 .dropdown-content a {
-  color: #01200F;
+  color: #D9DCD6;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
   }
-  
-.dropdown-content a:hover {background-color: #104F55;}
+.dropdown-content a:hover {background-color: #2F6690;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #104F55;}
-
+.dropdown:hover .dropbtn {background-color: #2F6690;}
 .planning {
   text-align: center;}
   h2{
