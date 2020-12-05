@@ -147,4 +147,22 @@ li a:hover:not(.active) {
   margin-top:100px;
   font-family: archer, arial;
   font-size: 18px;}
+
+/*CSS for Covid Page*/ 
+.covid{  
+  text-align: center;
+  font-size: 18px;
+  color:#16425B;
+  font-family: archer, arial;}
   
+.Travellers{
+  text-align: center;
+  font-size: 18px;
+  color:#16425B;
+  font-family: archer, arial;}
+  
+.bulletpoints{
+  text-align: center;
+  font-size: 18px;
+  color:#16425B;
+  font-family: archer, arial;}
