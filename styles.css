@@ -153,7 +153,8 @@ li a:hover:not(.active) {
   text-align: center;
   font-size: 18px;
   color:#16425B;
-  font-family: archer, arial;}
+  font-family: archer, arial;
+  margin-top: 100px;}
   
 .Travellers{
   text-align: center;
