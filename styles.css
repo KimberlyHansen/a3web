@@ -145,5 +145,6 @@ li a:hover:not(.active) {
  .plantrip {
   text-align: center;
   margin-top:100px;
-  font-family: archer, arial;}
+  font-family: archer, arial;
+  font-size: 18px;}
   
