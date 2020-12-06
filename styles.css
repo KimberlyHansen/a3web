@@ -139,6 +139,7 @@ li a:hover:not(.active) {
   text-align: center;
   font-size: 18px;
   margin-top:200px;
+  margin-bottom: 100px;
   color:#16425B;
   font-family: archer, arial;}
   
@@ -151,14 +152,14 @@ li a:hover:not(.active) {
 /*CSS for Covid Page*/ 
 .covid{  
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
   margin-top: 100px;}
   
 .Travellers{
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   color:#16425B;
   font-family: archer, arial;}
   
