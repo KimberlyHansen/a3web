@@ -42,6 +42,7 @@ li a:hover:not(.active) {
 }
 
 .sticky {
+  margin: 0px;
   position: fixed;
   top: 0;
   width: 100%;
