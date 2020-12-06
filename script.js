@@ -1,35 +1,14 @@
-function perth(){
-    var d = new Date()
-    var utc = d.toUTCString()
-    document.write(utc);
-}
+var d = new Date();
+var auw = d.toLocaleString("en-US",{timeZone: "Australia/West"});
+var aue = d.toLocaleString("en-US",{timeZone: "Australia/Eucla"});
+var aud = d.toLocaleString("en-US",{timeZone: "Australia/Darwin"});
+var aub = d.toLocaleString("en-US",{timeZone: "Australia/Brisbane"});
+var aua = d.toLocaleString("en-US",{timeZone: "Australia/Adelaide"});
+var aus = d.toLocaleString("en-US",{timeZone: "Australia/Sydney"});
 
-function eucia(){
-    var d = new Date()
-    var utc = d.toUTCString(8.75)
-    document.write(utc); 
-}
-
-function darwin(){
-    var d = new Date()
-    var utc = d.toUTCString(9.5)
-    document.write(utc);
-}
-
-function brisbane(){
-    var d = new Date()
-    var utc = d.toUTCString(10)
-    document.write(utc);
-}
-
-function adelaide(){
-    var d = new Date()
-    var utc = d.toUTCString(10.5)
-    document.write(utc);
-}
-
-function sydney(){
-    var d = new Date()
-    var utc = d.toUTCString(11)
-    document.write(utc);
-}
+document.getElementById("auw").innerHTML = auw;
+document.getElementById("aue").innerHTML = aue;
+document.getElementById("aud").innerHTML = aud;
+document.getElementById("aub").innerHTML = aub;
+document.getElementById("aua").innerHTML = aua;
+document.getElementById("aus").innerHTML = aus;
