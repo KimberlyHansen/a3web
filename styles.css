@@ -10,7 +10,7 @@ ul {
     padding: 10px;
     overflow: hidden;
     background-color: #2F6690;
-    position: fixed;
+    /*position: fixed;*/
     top: 0;
     width: 100%;
   }
