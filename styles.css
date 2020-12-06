@@ -4,7 +4,7 @@ body {
     background-color: #D9DCD6
   }
 /* Navigation bar */
-ul {
+ul.nav {
     list-style-type: none;
     margin: 25px;
     padding: 10px;
@@ -14,7 +14,7 @@ ul {
     top: 0;
     width: 100%;
   }
-li {
+li.nav {
   float: left;
 }
 li a {
