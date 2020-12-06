@@ -4,7 +4,7 @@ body {
     background-color: #D9DCD6
   }
 /* Navigation bar */
-ul {
+ul.nav {
     list-style-type: none;
     margin: 25px;
     padding: 10px;
@@ -14,7 +14,7 @@ ul {
     top: 0;
     width: 100%;
   }
-li {
+li.nav {
   float: left;
 }
 li a {
@@ -59,19 +59,7 @@ li a:hover:not(.active) {
   padding-top: 60px;
 }
 
-ul.list {
-  display: block;
-  list-style-type: disc;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  padding-inline-start: 40px;
-}
 
-li.list {
-
-}
 
 
 
