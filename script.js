@@ -1,6 +1,6 @@
-function perth(x){
+function perth(){
     var d = new Date()
-    var utc = d.toUTCString(x)
+    var utc = d.toUTCString()
     document.write(utc);
 }
 
