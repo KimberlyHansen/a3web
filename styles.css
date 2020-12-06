@@ -34,7 +34,7 @@ li a:hover:not(.active) {
   color: #D9DCD6;
 }
 
-/* .content .sticky and .sticky + .content added by Aaron Jutzi Dec. 6 */
+/* .content .sticky and .sticky + .content added by Aaron Jutzi Dec. 6, 2020 */
 /* these css classes work (with the js file) to stick the navbar when scrolling down */
 /* inspiration: https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
 .places {

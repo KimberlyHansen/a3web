@@ -1,3 +1,4 @@
+// added by Aaron Jutzi December 6, 2020
 // toLocaleString() source: https://www.geeksforgeeks.org/how-to-convert-date-to-another-timezone-in-javascript/
 // list of js timezone names: https://gist.github.com/rxaviers/8481876
 
