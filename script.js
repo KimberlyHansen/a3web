@@ -1,3 +1,7 @@
+// toLocaleString() source: https://www.geeksforgeeks.org/how-to-convert-date-to-another-timezone-in-javascript/
+// list of js timezone names: https://gist.github.com/rxaviers/8481876
+
+
 var d = new Date();
 var auw = d.toLocaleString("en-US",{timeZone: "Australia/West"});
 var aue = d.toLocaleString("en-US",{timeZone: "Australia/Eucla"});
@@ -12,3 +16,18 @@ document.getElementById("aud").innerHTML = aud;
 document.getElementById("aub").innerHTML = aub;
 document.getElementById("aua").innerHTML = aua;
 document.getElementById("aus").innerHTML = aus;
+
+
+
+window.onscroll = function() {navbarSticky()};
+
+var navbar = document.getElementById();
+var sticky = navbar.offsetTop;
+
+function navbarSticky() {
+    if (window.pageYOffset >= sticky) {
+        navbar.classList.add("sticky")
+    } else {
+        navbar.classList.remove("sticky");
+    }
+}
