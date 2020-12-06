@@ -38,6 +38,7 @@ li a:hover:not(.active) {
 /* these css classes work (with the js file) to stick the navbar when scrolling down */
 /* inspiration: https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
 .content {
+  margin-top: 100px;
   padding: 16px;
 }
 
