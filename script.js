@@ -21,7 +21,7 @@ document.getElementById("aus").innerHTML = aus;
 
 window.onscroll = function() {navbarSticky()};
 
-var navbar = document.getElementById();
+var navbar = document.getElementById("navbar");
 var sticky = navbar.offsetTop;
 
 function navbarSticky() {
