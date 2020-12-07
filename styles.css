@@ -293,3 +293,10 @@ ul.sticky + .content {
   color:#16425B;
   font-family: archer, arial;
 }
+
+.timezones {
+  float: none;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
+}
