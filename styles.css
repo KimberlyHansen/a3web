@@ -286,7 +286,7 @@ ul.sticky + .content {
 }
 
 .attractions {
-  top: 200px;
+  top: 300px;
   float: left;
   text-align: left;
   position: relative;
@@ -296,11 +296,12 @@ ul.sticky + .content {
 }
 
 .timezones {
-  position: relative;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
-  width: 100%;
 }
 
 .timezones td, .timezones th {
