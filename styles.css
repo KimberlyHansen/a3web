@@ -159,31 +159,34 @@ ul.sticky + .content {
 .dropdown:hover .dropbtn {background-color: #2F6690;}
  .flights {
   text-align: center;
-  font-size: 18px;
+  font-size: 30px;
   margin-top: 50px;
-  color:#16425B;
-  font-family: archer, arial;}
+  color:#FBA100;
+  font-family: archer, arial;
+  font-weight: bold;}
 
  .Hotels {
   text-align: center;
-  font-size: 18px;
+  font-size: 30px;
   margin-top: 200px;
-  color:#16425B;
+  color:#FBA100;
   font-family: archer, arial;}
 
  .CarRentals{
   text-align: center;
-  font-size: 18px;
+  font-size: 30px;
   margin-top:200px;
   margin-bottom: 100px;
-  color:#16425B;
+  color:#FBA100;
   font-family: archer, arial;}
   
  .plantrip {
   text-align: center;
   margin-top:100px;
   font-family: archer, arial;
-  font-size: 18px;}
+  font-size: 40px;
+  font-weight: bold;
+  color:#FBA100;}
 
 /*CSS for Covid Page-Jessica*/ 
 .covid{  
