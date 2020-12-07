@@ -278,7 +278,7 @@ ul.sticky + .content {
 /* CSS for places to go page added by Aaron */
 
 .cities {
-  float: right;
+  float: left;
   text-align: left;
   font-size: 16px;
   color:#16425B;
