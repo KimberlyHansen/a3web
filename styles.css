@@ -109,21 +109,7 @@ ul.sticky + .content {
     color: #16425B;
   }
 /* Background video */
-.bgvideo {
-  background: url(Videos/Forest1280x720.mp4);
-  border: 2px solid black;
-}
-.videotext 
-  p {
-    font-family: archer, arial;
-    font-size: 18px;
-    text-align: center;
-    padding-top: 55px;
-    padding-left: 90px;
-    padding-right: 100px;
-    color: #16425B
-}
-/*.videocontainer
+.videocontainer
   {
     z-index: -1;
     overflow: hidden;
@@ -133,7 +119,7 @@ ul.sticky + .content {
     background-color: rgb(143, 129, 129);
     margin-top: 100px;
     margin-bottom: 0px;
-  }*/
+  }
 .button {
    display: inline-block; 
    padding-right: 20px;
