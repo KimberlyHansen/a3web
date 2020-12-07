@@ -206,10 +206,10 @@ ul.sticky + .content {
 /* Modal on Things to do page - Built by Kimberly */
 
 .modal {
-  display: inline-block; 
+  display: none; 
   position: fixed;
   z-index: 1;
-  left: 50%;
+  left: 0;
   top: 0;
   width: 100%;
   height: 100%;
