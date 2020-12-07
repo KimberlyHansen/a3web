@@ -277,6 +277,11 @@ ul.sticky + .content {
 
 /* CSS for places to go page added by Aaron */
 
+.div1 {
+  height: 450px;
+  width: 100 %;
+}
+
 .cities {
   float: left;
   text-align: left;
@@ -286,7 +291,6 @@ ul.sticky + .content {
 }
 
 .attractions {
-  top: 300px;
   float: left;
   text-align: left;
   position: relative;
