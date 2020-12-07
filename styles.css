@@ -133,7 +133,7 @@ ul.sticky + .content {
   font-family: archer, arial;
   }
 .dropdown {
-  position: fixed;
+  position: absolute;
   bottom:10;
   top:6;
   display: inline-block;
