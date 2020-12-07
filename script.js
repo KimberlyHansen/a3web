@@ -18,15 +18,3 @@ document.getElementById("aub").innerHTML = aub;
 document.getElementById("aua").innerHTML = aua;
 document.getElementById("aus").innerHTML = aus;
 
-window.onscroll = function() {navbarSticky()};
-
-var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
-
-function navbarSticky() {
-    if (window.pageYOffset >= sticky) {
-        navbar.classList.add("sticky")
-    } else {
-        navbar.classList.remove("sticky");
-    }
-}

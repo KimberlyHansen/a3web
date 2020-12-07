@@ -45,7 +45,7 @@ li a:hover:not(.active) {
   color: #D9DCD6;
 }
 
-/* .content .sticky and .sticky + .content added by Aaron Jutzi Dec. 6, 2020 */
+/* .sticky and .sticky + .content added by Aaron Jutzi Dec. 6, 2020 */
 /* these css classes work (with the js file) to stick the navbar when scrolling down */
 /* inspiration: https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
 
@@ -114,11 +114,15 @@ ul.sticky + .content {
     z-index: -1;
     overflow: hidden;
     background-size: cover;
-    background-position: 100%;
+    background-position: 50% 50%;
     background-repeat: no-repeat;
     background-color: #000;
   }
-
+.button {
+   display: inline-block; 
+   padding-right: 20px;
+   padding-top: 100px;
+  }
 /* dropdown menu on plan your trip page-jessica november 24,2020*/
 .dropbtn {
   background-color: #2F6690;
@@ -206,7 +210,7 @@ ul.sticky + .content {
 /* Modal on Things to do page - Built by Kimberly */
 
 .modal {
-  display: none; 
+  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
