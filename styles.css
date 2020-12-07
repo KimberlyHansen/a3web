@@ -116,7 +116,9 @@ ul.sticky + .content {
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-    background-color: #000;
+    background-color: rgb(143, 129, 129);
+    margin-top: 100px;
+    margin-bottom: 0px;
   }
 .button {
    display: inline-block; 
