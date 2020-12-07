@@ -120,6 +120,10 @@ ul.sticky + .content {
     background-repeat: no-repeat;
     background-color: #000;
   }
+.button {
+   display: inline-block; 
+   margin-right: 20px;
+  }
 /* dropdown menu on plan your trip page-jessica november 24,2020*/
 .dropbtn {
   background-color: #2F6690;
