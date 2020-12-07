@@ -277,6 +277,22 @@ ul.sticky + .content {
 
 /* CSS for places to go page added by Aaron */
 
+.places
+  h1 {
+    font-family: archer, arial;
+    font-size: 18px;
+    text-align: center;
+    color: #16425B
+  }
+  p {
+    font-family: archer, arial;
+    color: #16425B
+  }
+  h2 {
+    color: #16425B;
+  }
+
+
 .div1 {
   height: 450px;
   width: 40 %;
