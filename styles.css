@@ -9,7 +9,6 @@ body {
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
-  margin-top: 100px;
   padding: 16px;
 }
   
@@ -58,7 +57,7 @@ ul.sticky {
 }
 
 ul.sticky + .content {
-  padding-top: 60px;
+  padding-top: 10px;
 }
 
 
