@@ -114,7 +114,7 @@ ul.sticky + .content {
     z-index: -1;
     overflow: hidden;
     background-size: cover;
-    background-position: 50% 50%;
+    background-position: 100%;
     background-repeat: no-repeat;
     background-color: #000;
   }
