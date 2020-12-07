@@ -281,6 +281,8 @@ ul.sticky + .content {
   height: 450px;
   width: 40 %;
   border: 1px solid red;
+  margin: 0;
+  padding: 0;
 }
 
 .div2 {
@@ -288,6 +290,8 @@ ul.sticky + .content {
   width: 40 %;
   border: 1px solid green;
   text-align: left;
+  margin: 0;
+  padding: 0;
 }
 
 .cities {
