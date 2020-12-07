@@ -41,7 +41,7 @@ li a:hover:not(.active) {
   color: #16425B;
 }
 .active {
-  background-color: #FBA100;
+  background-color: #16425B;
   color: #D9DCD6;
 }
 
@@ -161,38 +161,34 @@ ul.sticky + .content {
   font-family: archer, arial;}
 .dropdown-content a:hover {background-color: #2F6690;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #FBA100;}
+.dropdown:hover .dropbtn {background-color: #2F6690;}
  .flights {
   text-align: center;
-  font-size: 30px;
-  font-weight: bold;
+  font-size: 18px;
   margin-top: 50px;
-  color:#FBA100;
+  color:#16425B;
   font-family: archer, arial;}
 
  .Hotels {
   text-align: center;
-  font-size: 30px;
-  font-weight:bold;
+  font-size: 18px;
   margin-top: 200px;
-  color:#FBA100;
+  color:#16425B;
   font-family: archer, arial;}
 
  .CarRentals{
   text-align: center;
-  font-size: 30px;
+  font-size: 18px;
   margin-top:200px;
   margin-bottom: 100px;
-  color:#FBA100;
+  color:#16425B;
   font-family: archer, arial;}
   
  .plantrip {
   text-align: center;
   margin-top:100px;
   font-family: archer, arial;
-  font-size: 40px;
-  font-weight: bold;
-  color:#FBA100;}
+  font-size: 18px;}
 
 /*CSS for Covid Page-Jessica*/ 
 .covid{  
@@ -269,4 +265,17 @@ ul.sticky + .content {
   padding: 2px 16px;
   background-color: #6BBAA7;
   color: white;
+}
+
+
+
+/* CSS for places to go page added by Aaron */
+
+.cities {
+  text-align: left;
+  margin-left: 50%;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
+  margin-top: 100px;}
 }
