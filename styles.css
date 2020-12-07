@@ -68,7 +68,7 @@ ul.sticky + .content {
 /* Title */
 .pagetitle
   h1 {
-    margin-top: 100px;
+    /*margin-top: 100px;*/
     font-family: archer, arial;
     font-size: 26px;
     font: bold;
@@ -94,7 +94,7 @@ ul.sticky + .content {
 /* Page Body */
 .pagebody
   h1 {
-    margin-top: 100px;
+    /*margin-top: 100px;*/
     font-family: archer, arial;
     font-size: 18px;
     text-align: center;
