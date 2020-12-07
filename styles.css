@@ -279,14 +279,15 @@ ul.sticky + .content {
 
 .div1 {
   height: 450px;
-  width: 50 %;
+  width: 40 %;
   border: 1px solid red;
 }
 
 .div2 {
   height: 450px;
-  width: 50 %;
+  width: 40 %;
   border: 1px solid green;
+  text-align: left;
 }
 
 .cities {
