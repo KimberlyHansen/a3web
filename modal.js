@@ -3,11 +3,11 @@
 //var modal = document.getElementById("insidemodal");
 //var btn = document.getElementById("Inside");
 var modalData = {
-    "Inside": {
+    "insidemodal": {
       "header":"Indoor Activities",
       "body":"Museums etc"
     },
-    "Outside": {
+    "outsidemodal": {
       "header":"Outdoor Activities",
       "body":"Bungee Jumping etc"
     }
