@@ -283,11 +283,16 @@ ul.sticky + .content {
   border: 1px solid red;
 }
 
+.div1 ul {
+  float:
+}
+
 .cities {
   text-align: left;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
+  width: 50%;
 }
 
 .attractions {
