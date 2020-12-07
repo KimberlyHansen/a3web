@@ -111,7 +111,7 @@ ul.sticky + .content {
 /* Background video */
 .videocontainer
   {
-    z-index: -1000;
+    z-index: -1;
     overflow: hidden;
     background-size: cover;
     background-position: 50% 50%;
@@ -272,5 +272,4 @@ ul.sticky + .content {
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
-  margin-top: 100px;}
 }
