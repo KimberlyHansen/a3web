@@ -296,8 +296,8 @@ ul.sticky + .content {
 }
 
 .timezones {
-  position: fixed;
-  bottom: 0;
+  position: relative;
+  bottom: 10px;
   width: 100%;
   font-size: 16px;
   color:#16425B;
