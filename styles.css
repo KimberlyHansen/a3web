@@ -300,4 +300,10 @@ ul.sticky + .content {
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
+  width: 100%;
 }
+
+.timezones td, .timezones th {
+  border: 1px solid;
+}
+
