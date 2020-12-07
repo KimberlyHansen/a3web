@@ -295,7 +295,7 @@ ul.sticky + .content {
 }
 
 .timezones {
-  float: none;
+  float: left;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
