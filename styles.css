@@ -215,6 +215,12 @@ ul.sticky + .content {
 
 /* Modal on Things to do page - Built by Kimberly */
 
+.modalcontainer
+  {
+    display: inline-block;
+    object-position: center;
+    
+  }
 .modal {
   display: none;
   position: fixed;
