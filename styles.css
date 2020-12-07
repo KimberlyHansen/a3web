@@ -286,6 +286,7 @@ ul.sticky + .content {
 }
 
 .attractions {
+  top: 50px;
   float: left;
   text-align: left;
   position: relative;
