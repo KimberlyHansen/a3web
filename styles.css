@@ -21,7 +21,7 @@ ul.nav {
     padding: 10px;
     overflow: hidden;
     background-color: #2F6690;
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 100%;
   }
@@ -49,7 +49,7 @@ li a:hover:not(.active) {
 /* these css classes work (with the js file) to stick the navbar when scrolling down */
 /* inspiration: https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
 
-ul.sticky {
+/*ul.sticky {
   margin: 0px;
   margin-left: 25px;
   position: fixed;
@@ -59,7 +59,7 @@ ul.sticky {
 
 ul.sticky + .content {
   padding-top: 60px;
-}
+}*/
 
 
 
@@ -68,7 +68,6 @@ ul.sticky + .content {
 /* Title */
 .pagetitle
   h1 {
-    /*margin-top: 100px;*/
     font-family: archer, arial;
     font-size: 26px;
     font: bold;
@@ -94,7 +93,6 @@ ul.sticky + .content {
 /* Page Body */
 .pagebody
   h1 {
-    /*margin-top: 100px;*/
     font-family: archer, arial;
     font-size: 18px;
     text-align: center;
@@ -122,7 +120,8 @@ ul.sticky + .content {
   }
 .button {
    display: inline-block; 
-   margin-right: 20px;
+   padding-right: 20px;
+   padding-top: 100px;
   }
 /* dropdown menu on plan your trip page-jessica november 24,2020*/
 .dropbtn {
