@@ -179,7 +179,7 @@ ul.sticky + .places {
   font-family: archer, arial;
   font-size: 18px;}
 
-/*CSS for Covid Page*/ 
+/*CSS for Covid Page-Jessica*/ 
 .covid{  
   text-align: center;
   font-size: 16px;
@@ -188,6 +188,12 @@ ul.sticky + .places {
   margin-top: 100px;}
   
 .Travellers{
+  text-align: center;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;}
+
+.Advice{
   text-align: center;
   font-size: 16px;
   color:#16425B;
