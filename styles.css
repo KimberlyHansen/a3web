@@ -283,8 +283,8 @@ ul.sticky + .content {
   border: 1px solid red;
 }
 
-.div1 ul {
-  float:
+.div1 ul, .div1 li{
+  width: 50%;
 }
 
 .cities {
