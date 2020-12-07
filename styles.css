@@ -9,6 +9,7 @@ body {
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
+  margin-top: 100px;
   padding: 16px;
 }
   
@@ -20,7 +21,7 @@ ul.nav {
     padding: 10px;
     overflow: hidden;
     background-color: #2F6690;
-    position: sticky;
+    position: fixed;
     top: 0;
     width: 100%;
   }
@@ -98,17 +99,14 @@ ul.sticky + .content {
     padding-top: 55px;
     padding-left: 90px;
     padding-right: 100px;
-    color: #16425B;
-    z-index: 1000;
+    color: #16425B
   }
   p {
     font-family: archer, arial;
-    color: #16425B;
-    z-index:1000;
+    color: #16425B
   }
   h2 {
     color: #16425B;
-    z-index: 1000;
   }
 /* Background video */
 .videocontainer
