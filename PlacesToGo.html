@@ -1,28 +1,64 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- comment -->
-<link rel="stylesheet" href="styles.css">
 
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <!-- Navigation Bar added and owned by Aaron -->
 <div>
-    <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a class="active" href="PlacesToGo.html">Places To Go</a></li>
-        <li><a href="ThingtoDo.html">Things To Do</a></li>
-        <li><a href="PlanYourTrip.html">Plan Your Trip</a></li>
-        <li><a href="AustraliaInformation.html">Australia Information</a></li>
-        <li><a href="covid.html">COVID-19 Resources</a></li>
+    <ul id="navbar" class="nav">
+        <li class="nav"><a href="index.html">Home</a></li>
+        <li class="nav"><a class="active" href="PlacesToGo.html">Places To Go</a></li>
+        <li class="nav"><a href="ThingtoDo.html">Things To Do</a></li>
+        <li class="nav"><a href="PlanYourTrip.html">Plan Your Trip</a></li>
+        <li class="nav"><a href="AustraliaInformation.html">Australia Information</a></li>
+        <li class="nav"><a href="covid.html">COVID-19 Resources</a></li>
     </ul>
 </div>
+<div class="content">
 <h1>Places to Go in Australia</h1>
-<p>things</p>
-<p>test</p>
+<img src="Images/australiaMap.png" alt="Australia Map" align="left" style="width:408px;height:347px">
+
+<div>
+    <p>Popular Cities</p>
+    <ul>
+        <li>Sydney</li>
+        <li>Melbourne</li>
+        <li>Brisbane</li>
+        <li>Perth</li>
+        <li>Adelaide</li>
+        <li>Gold Coast</li>
+        <li>Darwin</li>
+    </ul>
+</div>
+<div>
+    <p>Attractions</p>
+    <ul>
+        <li>Great Barrier Reef</li>
+        <li>Red Centre</li>
+        <li>Great Ocean Road</li>
+        <li>Byron Bay</li>
+        <li>Kangaroo Island</li>
+        <li>Sunshine Coast</li>
+    </ul>
+</div>
 <div>
     <h2>Local times</h2>
-    <script src="script.js"></script>
+    <p>Perth</p>
+    <p id="auw"></p>
+    <p>Eucla</p>
+    <p id="aue"></p>
+    <p>Darwin</p>
+    <p id="aud"></p>
+    <p>Brisbane</p>
+    <p id="aub"></p>
+    <p>Adelaide</p>
+    <p id="aua"></p>
+    <p>Sydney</p>
+    <p id="aus"></p>
 </div>
+</div>
+<script src="script.js"></script>
 </body>
 </html>

@@ -3,8 +3,19 @@
 body {
     background-color: #D9DCD6
   }
+
+.content {
+  text-align: center;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
+  margin-top: 100px;
+  padding: 16px;
+}
+  
+
 /* Navigation bar */
-ul {
+ul.nav {
     list-style-type: none;
     margin: 25px;
     padding: 10px;
@@ -14,7 +25,7 @@ ul {
     top: 0;
     width: 100%;
   }
-li {
+li.nav {
   float: left;
 }
 li a {
@@ -33,10 +44,31 @@ li a:hover:not(.active) {
   background-color: #16425B;
   color: #D9DCD6;
 }
+
+/* .content .sticky and .sticky + .content added by Aaron Jutzi Dec. 6, 2020 */
+/* these css classes work (with the js file) to stick the navbar when scrolling down */
+/* inspiration: https://www.w3schools.com/howto/howto_js_navbar_sticky.asp */
+
+ul.sticky {
+  margin: 0px;
+  margin-left: 25px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+ul.sticky + .content {
+  padding-top: 60px;
+}
+
+
+
+
+
 /* Title */
 .pagetitle
   h1 {
-    margin-top: 100px;
+    /*margin-top: 100px;*/
     font-family: archer, arial;
     font-size: 26px;
     font: bold;
@@ -62,7 +94,7 @@ li a:hover:not(.active) {
 /* Page Body */
 .pagebody
   h1 {
-    margin-top: 100px;
+    /*margin-top: 100px;*/
     font-family: archer, arial;
     font-size: 18px;
     text-align: center;
@@ -90,38 +122,84 @@ li a:hover:not(.active) {
   }
 /* dropdown menu on plan your trip page-jessica november 24,2020*/
 .dropbtn {
-  background-color: #104F55;
+  background-color: #2F6690;
   color: #D9DCD6;
   padding: 8px;
   font-size: 16px;
   border: none;
-  }
+  font-family: archer, arial;}
 .dropdown {
   position: relative;
   bottom:10;
   top:6;
   display: inline-block;
+  padding-left:100px;
+  margin-top:50px
   }
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #2F6690;
-  min-width: 60px;
+  min-width: 20px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  }
+  font-family: archer, arial;}
 .dropdown-content a {
   color: #D9DCD6;
-  padding: 12px 16px;
+  padding: 2px 2px;
   text-decoration: none;
   display: block;
-  }
+  font-family: archer, arial;}
 .dropdown-content a:hover {background-color: #2F6690;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #2F6690;}
-.planning {
-  text-align: center;}
-  h2{
+ .flights {
   text-align: center;
+  font-size: 18px;
+  margin-top: 50px;
+  color:#16425B;
+  font-family: archer, arial;}
+
+ .Hotels {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 200px;
+  color:#16425B;
+  font-family: archer, arial;}
+
+ .CarRentals{
+  text-align: center;
+  font-size: 18px;
+  margin-top:200px;
+  margin-bottom: 100px;
+  color:#16425B;
+  font-family: archer, arial;}
+  
+ .plantrip {
+  text-align: center;
+  margin-top:100px;
+  font-family: archer, arial;
+  font-size: 18px;}
+
+/*CSS for Covid Page-Jessica*/ 
+.covid{  
+  text-align: center;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
+  margin-top: 100px;}
+  
+.Travellers{
+  text-align: center;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
+  margin-top:100px;}
+
+.Advice{
+  text-align: center;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
   margin-top:100px;}
   
