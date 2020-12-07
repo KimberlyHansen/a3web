@@ -1,7 +1,17 @@
 
 // Javascript for Modal built by Kimberly
-var modal = document.getElementById("modal");
-var btn = document.getElementById("modal");
+//var modal = document.getElementById("insidemodal");
+//var btn = document.getElementById("Inside");
+var modalData = {
+    "Inside": {
+      "header":"Indoor Activities",
+      "body":"Museums etc"
+    },
+    "Outside": {
+      "header":"Outdoor Activities",
+      "body":"Bungee Jumping etc"
+    }
+  }
 var span = document.getElementsByClassName("close")[0];
 btn.onclick = function() {
   modal.style.display = "block";
