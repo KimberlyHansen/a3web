@@ -288,13 +288,14 @@ ul.sticky + .content {
 .attractions {
   float: left;
   text-align: left;
+  position: relative;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
 }
 
 .timezones {
-  float: left;
+  position: relative;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
