@@ -41,7 +41,7 @@ li a:hover:not(.active) {
   color: #16425B;
 }
 .active {
-  background-color: #16425B;
+  background-color: #FBA100;
   color: #D9DCD6;
 }
 
@@ -156,34 +156,38 @@ ul.sticky + .content {
   font-family: archer, arial;}
 .dropdown-content a:hover {background-color: #2F6690;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #2F6690;}
+.dropdown:hover .dropbtn {background-color: #FBA100;}
  .flights {
   text-align: center;
-  font-size: 18px;
+  font-size: 30px;
+  font-weight: bold;
   margin-top: 50px;
-  color:#16425B;
+  color:#FBA100;
   font-family: archer, arial;}
 
  .Hotels {
   text-align: center;
-  font-size: 18px;
+  font-size: 30px;
+  font-weight:bold;
   margin-top: 200px;
-  color:#16425B;
+  color:#FBA100;
   font-family: archer, arial;}
 
  .CarRentals{
   text-align: center;
-  font-size: 18px;
+  font-size: 30px;
   margin-top:200px;
   margin-bottom: 100px;
-  color:#16425B;
+  color:#FBA100;
   font-family: archer, arial;}
   
  .plantrip {
   text-align: center;
   margin-top:100px;
   font-family: archer, arial;
-  font-size: 18px;}
+  font-size: 40px;
+  font-weight: bold;
+  color:#FBA100;}
 
 /*CSS for Covid Page-Jessica*/ 
 .covid{  
