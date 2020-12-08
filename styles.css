@@ -189,6 +189,15 @@ ul.sticky + .content {
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #2F6690;}
 
+a{
+background-color: #2F6690;
+color: #D9DCD6;
+padding: 5px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 25px;}
 
  /*.flights {
   text-align: center;
@@ -358,8 +367,29 @@ ul.sticky + .content {
   font-family: archer, arial;
   border: 1px solid green;
   float:left;
-  margin: 10px;
+  margin-bottom: 20px;
 }
+
+.div4 td, .div4 th {
+	border: 1px solid;
+	padding: 8px;
+}
+
+.div4 th {
+	padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #FF7F50;
+  color: white;
+}
+
+.div4 tr {
+	background-color: beige;
+	color: black;
+	padding-top: 12px;
+    padding-bottom: 12px;
+}
+	
 
 .center {
   display: block;
