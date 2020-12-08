@@ -95,6 +95,7 @@ ul.nav {
     position: fixed;
     top: 0;
     width: 100%;
+    opacity:1;
   }
 li.nav {
   float: left;
