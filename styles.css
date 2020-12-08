@@ -167,8 +167,6 @@ ul.sticky + .content {
   }
 .dropdown {
   position: absolute;
-  bottom:10px;
-  top:6px;
   display: inline-block;
   padding-left:100px;
   margin-top:50px
@@ -345,11 +343,11 @@ border-radius: 25px;}
 
 .div2 {
   height: 350px;
-  width: 53%;
+  width: 23%;
   border: 1px solid green;
   text-align: left;
   font-size: 20px;
-  float: right;
+  float: left;
 }
 
 .div2 h1{
