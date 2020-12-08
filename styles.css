@@ -413,9 +413,10 @@ border-radius: 25px;}
  }
 
 div.background1 {
+  z-index: -1;
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
-  position:fixed;
+  position:sticky;
   width: 100%;
 }
 div.background2 {
