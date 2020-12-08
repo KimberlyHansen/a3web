@@ -7,7 +7,7 @@ body {
 .content {
   text-align: center;
   font-size: 16px;
-  color:#16425B;
+  color:#FF7F50;
   font-family: archer, arial;
   margin-top: 40px;
   padding: 16px;
@@ -15,17 +15,17 @@ body {
 
 h1 {
   font-family: archer, arial;
-  font-size: 26px;
+  font-size: 40px;
   font: bold;
   text-align: center;
   padding-top: 55px;
   padding-left: 90px;
   padding-right: 100px;
-  color: #16425B;
+  color: #FF7F50;
 }
 p {
   font-family: archer, arial;
-  font-size: 20px;
+  font-size: 30px;
   font: bold;
   text-align: center;
   padding-top: 55px;
@@ -34,7 +34,7 @@ p {
   color: #16425B
 }
 h2 {
-  color: #16425B;
+  color: #FF7F50;
 }
 
 
@@ -108,11 +108,11 @@ li a {
   text-decoration: none;
 }
 li a:hover:not(.active) {
-  background-color: #D9DCD6;
+  background-color: #FF7F50;
   color: #16425B;
 }
 .active {
-  background-color: #16425B;
+  background-color: #FF7F50;
   color: #D9DCD6;
 }
 
@@ -410,7 +410,7 @@ border-radius: 25px;}
   margin-right: auto;
  }
 
- div.background1 {
+div.background1 {
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
 }
@@ -427,6 +427,8 @@ div.background3 {
   background-color: #6BBAA7;
   border: 1px  #1f3631;
   opacity: 0.3;
+  float: left;
+  width: 75%;
 }
 
 div.transbox p {
