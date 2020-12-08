@@ -167,8 +167,8 @@ ul.sticky + .content {
   }
 .dropdown {
   position: absolute;
-  bottom:10;
-  top:6;
+  bottom:10px;
+  top:6px;
   display: inline-block;
   padding-left:100px;
   margin-top:50px
@@ -191,6 +191,7 @@ ul.sticky + .content {
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #2F6690;}
 
+/*CSS for links- Created by Jessica*/
 a{
 background-color: #2F6690;
 color: #D9DCD6;
