@@ -198,7 +198,7 @@ border-radius: 25px;}
 
 .modal-header {
   padding: 2px 16px;
-  background-color: #FBA100;
+  background-color: #294942;
   color: white;
 }
 
@@ -319,6 +319,8 @@ border-radius: 25px;}
   margin-left: auto;
   margin-right: auto;
  }
+
+ /*Background input/owned by Kimberly Hansen*/
 
 .background1 {
   background: url(Images/road.jpg) repeat;
