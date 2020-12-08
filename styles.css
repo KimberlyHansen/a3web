@@ -260,6 +260,8 @@ border-radius: 25px;}
   {
     display: inline-block;
     object-position: center;
+    margin-top:100px;
+    align-content: center;
 
   }
 .modal {
@@ -430,6 +432,8 @@ div.background1 {
 div.background2 {
   background: url(Images/trees.jpg) repeat;
   border: 2px solid rgb(77, 69, 69);
+  position: fixed;
+  width: 100%;
 }
 div.background3 {
   background: url(Images/sunset.jpg) repeat;
