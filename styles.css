@@ -326,8 +326,19 @@ border-radius: 25px;}
 
  /*Background input/owned by Kimberly Hansen*/
 
+.backgroundvideo{
+  background: url(Video/Forest1280x720.mp4);
+  border: 2px solid black;
+  min-height: 1280px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+
 .background1 {
-  background: url(Images/road.jpg) repeat;
+  background: url(Images/road.jpg);
   border: 2px solid black;
   min-height: 1280px;
   background-attachment: fixed;
@@ -354,7 +365,7 @@ div.background3 {
   margin: 10px;
   background-color: #6BBAA7;
   border: 1px  #1f3631;
-  opacity: 0.3;
+  opacity: 0.6;
   float: right;
   width: 60%;
 }
