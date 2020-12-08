@@ -313,6 +313,10 @@ border-radius: 25px;}
 	padding-top: 12px;
     padding-bottom: 12px;
 }
+
+.div4 table {
+  width: 100%;
+}
 	
 .center {
   display: block;
