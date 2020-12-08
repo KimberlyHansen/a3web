@@ -339,14 +339,12 @@ border-radius: 25px;}
 .div1 {
   height: 350px;
   width: 45%;
-  border: 1px solid red;
   float: left;
 }
 
 .div2 {
   height: 350px;
   width: 23%;
-  border: 1px solid green;
   text-align: left;
   font-size: 20px;
   float: left;
@@ -368,7 +366,6 @@ border-radius: 25px;}
 .div3 {
   height: 350px;
   width: 30%;
-  border: 1px solid red;
   text-align: left;
   font-size: 20px;
   float: left;
@@ -399,7 +396,6 @@ border-radius: 25px;}
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
-  border: 1px solid green;
   float:left;
   margin-bottom: 20px;
 }
