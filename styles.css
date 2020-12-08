@@ -367,3 +367,8 @@ ul.sticky + .content {
   margin-left: auto;
   margin-right: auto;
  }
+
+.background
+    body {
+    background-image: url('Images/road.jpg');
+    position: sticky;}
