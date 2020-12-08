@@ -337,32 +337,21 @@ ul.sticky + .content {
   float: right;
 }
 
-.div2 
-
-.cities {
-  text-align: left;
-  font-size: 16px;
-  color:#16425B;
-  font-family: archer, arial;
-  width: 50%;
-}
-
-.attractions {
+.div3 {
+  height: 350px;
+  width: 45%;
+  border: 1px solid red;
   float: left;
-  text-align: left;
-  position: relative;
-  font-size: 16px;
-  color:#16425B;
-  font-family: archer, arial;
-}
+} 
 
-.timezones {
+.div4 {
   position: relative;
   bottom: 10px;
   width: 100%;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
+  border: 1px solid green;
 }
 
 .timezones td, .timezones th {
