@@ -188,6 +188,11 @@ ul.sticky + .content {
 .dropdown-content a:hover {background-color: #2F6690;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #2F6690;}
+
+.background
+    body {
+    background-image: url('Images/road.jpg');
+    position: sticky;}
  /*.flights {
   text-align: center;
   font-size: 30px;
@@ -368,7 +373,4 @@ ul.sticky + .content {
   margin-right: auto;
  }
 
-.background
-    body {
-    background-image: url('Images/road.jpg');
-    position: sticky;}
+
