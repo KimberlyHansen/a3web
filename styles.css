@@ -216,21 +216,6 @@ border-radius: 25px;}
 
 /* CSS for places to go page added by Aaron */
 
-.places
-  h1 {
-    font-family: archer, arial;
-    font-size: 18px;
-    text-align: center;
-    color: #16425B
-  }
-  p {
-    font-family: archer, arial;
-    color: #16425B
-  }
-  h2 {
-    color: #16425B;
-  }
-
 
 .div1 {
   height: 350px;
@@ -286,6 +271,7 @@ border-radius: 25px;}
   align-items: center;
   margin: 2px;
   padding: 1px;
+  margin-top: 10px;
 }
 
 .div4 {
