@@ -265,9 +265,7 @@ border-radius: 25px;}
 
   }
 .modal {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: none;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -362,7 +360,7 @@ border-radius: 25px;}
   text-align: left;
   margin-top: 2px;
   padding: 2px;
-  margin: 20px;
+  margin: 19px;
 }
 
 .div3 {
@@ -383,14 +381,14 @@ border-radius: 25px;}
   text-align: left;
   margin-top: 2px;
   padding: 2px;
-  margin: 20px;
+  margin: 19px;
 }
 
 .div5 {
   width: 100%;
   align-items: center;
   margin: 2px;
-  padding: 2px;
+  padding: 1px;
 }
 
 .div4 {
