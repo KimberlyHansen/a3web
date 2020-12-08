@@ -31,7 +31,7 @@ p {
   padding-top: 55px;
   padding-left: 90px;
   padding-right: 100px;
-  color: #16425B
+  color: #16425B;
 }
 h2 {
   color: #FF7F50;
@@ -56,7 +56,7 @@ li.nav {
 }
 li a {
   display: block;
-  color: #D9DCD6;;
+  color: #D9DCD6;
   font: bold;
   text-align: center;
   padding: 14px 16px;
@@ -198,7 +198,7 @@ border-radius: 25px;}
 
 .modal-header {
   padding: 2px 16px;
-  background-color: #FBA100;
+  background-color: #294942;
   color: white;
 }
 
@@ -319,6 +319,8 @@ border-radius: 25px;}
   margin-left: auto;
   margin-right: auto;
  }
+
+ /*Background input/owned by Kimberly Hansen*/
 
 .background1 {
   background: url(Images/road.jpg) repeat;
