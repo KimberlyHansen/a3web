@@ -4,6 +4,74 @@ body {
     background-color: #D9DCD6
   }
 
+h1 {
+  font-family: archer, arial;
+  font-size: 26px;
+  font: bold;
+  text-align: center;
+  padding-top: 55px;
+  padding-left: 90px;
+  padding-right: 100px;
+  color: #16425B
+}
+p {
+  font-family: archer, arial;
+  font-size: 20px;
+  font: bold;
+  text-align: center;
+  padding-top: 55px;
+  padding-left: 90px;
+  padding-right: 100px;
+  color: #16425B
+}
+h2 {
+  color: #16425B;
+}
+
+  /* Title
+.pagetitle
+h1 {
+  font-family: archer, arial;
+  font-size: 26px;
+  font: bold;
+  text-align: center;
+  padding-top: 55px;
+  padding-left: 90px;
+  padding-right: 100px;
+  color: #16425B
+}
+p {
+  font-family: archer, arial;
+  font-size: 20px;
+  font: bold;
+  text-align: center;
+  padding-top: 55px;
+  padding-left: 90px;
+  padding-right: 100px;
+  color: #16425B
+}
+h2 {
+  color: #16425B;
+}
+/* Page Body */
+/* .pagebody
+h1 {
+  font-family: archer, arial;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 55px;
+  padding-left: 90px;
+  padding-right: 100px;
+  color: #16425B
+}
+p {
+  font-family: archer, arial;
+  color: #16425B
+}
+h2 {
+  color: #16425B;
+} */ */
+
 .content {
   text-align: center;
   font-size: 16px;
@@ -65,49 +133,7 @@ ul.sticky + .content {
 
 
 
-/* Title */
-.pagetitle
-  h1 {
-    font-family: archer, arial;
-    font-size: 26px;
-    font: bold;
-    text-align: center;
-    padding-top: 55px;
-    padding-left: 90px;
-    padding-right: 100px;
-    color: #16425B
-  }
-  p {
-    font-family: archer, arial;
-    font-size: 20px;
-    font: bold;
-    text-align: center;
-    padding-top: 55px;
-    padding-left: 90px;
-    padding-right: 100px;
-    color: #16425B
-  }
-  h2 {
-    color: #16425B;
-  }
-/* Page Body */
-.pagebody
-  h1 {
-    font-family: archer, arial;
-    font-size: 18px;
-    text-align: center;
-    padding-top: 55px;
-    padding-left: 90px;
-    padding-right: 100px;
-    color: #16425B
-  }
-  p {
-    font-family: archer, arial;
-    color: #16425B
-  }
-  h2 {
-    color: #16425B;
-  }
+
 /* Background video */
 .videocontainer
   {
