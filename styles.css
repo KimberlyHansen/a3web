@@ -354,6 +354,12 @@ border-radius: 25px;}
   padding: 2px;
 }
 
+.div2 li{
+  text-align: left;
+  margin-top: 2px;
+  padding: 2px;
+}
+
 .div3 {
   height: 350px;
   width: 100%;
