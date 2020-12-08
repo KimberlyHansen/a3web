@@ -190,15 +190,14 @@ ul.sticky + .content {
 .dropdown:hover .dropbtn {background-color: #2F6690;}
 
 a{
-  background-color:#2F6690;
-  color:#D9DCD6;
-  padding: 5px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 15px;
-  border-radius: 25px;
-}
+background-color: #2F6690;
+color: #D9DCD6;
+padding: 5px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 25px;}
 
  /*.flights {
   text-align: center;
@@ -411,15 +410,23 @@ a{
   margin-right: auto;
  }
 
- div.background {
+ div.background1 {
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
 }
+div.background2 {
+  background: url(Images/trees.jpg) repeat;
+  border: 2px solid black;
+}
+div.background3 {
+  background: url(Images/sunset.jpg) repeat;
+  border: 2px solid black;
+}
  div.transbox {
-  margin: 30px;
+  margin: 10px;
   background-color: #6BBAA7;
   border: 1px  #1f3631;
-  opacity: 0.6;
+  opacity: 0.3;
 }
 
 div.transbox p {
