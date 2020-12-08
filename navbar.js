@@ -1,3 +1,5 @@
+// navbar stick functionality by Aaron Dec. 6, 2020
+
 window.onscroll = function() {navbarSticky()};
 
 var navbar = document.getElementById("navbar");
