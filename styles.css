@@ -352,6 +352,7 @@ a{
 .div2 h1{
   text-align: left;
   margin-top: 2px;
+  padding: 2px;
 }
 
 .div3 {
@@ -360,6 +361,12 @@ a{
   border: 1px solid red;
   float: left;
 } 
+
+.div3 h1{
+  text-align: left;
+  margin-top: 2px;
+  padding: 2px;
+}
 
 .div4 {
   width: 100%;
