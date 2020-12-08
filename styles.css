@@ -321,12 +321,14 @@ border-radius: 25px;}
  }
 
 div.background1 {
-  z-index: -1;
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
+  background-image: url("img_tree.gif");
+  min-height: 1280px;
+  background-attachment: fixed;
   background-position: center;
-  background-size:cover;
-  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 div.background2 {
   background: url(Images/trees.jpg) repeat;
