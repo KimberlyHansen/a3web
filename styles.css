@@ -395,6 +395,10 @@ border-radius: 25px;}
   margin-bottom: 20px;
 }
 
+.div4 h1 {
+  padding: 2px;
+}
+
 .div4 td, .div4 th {
 	border: 1px solid;
 	padding: 8px;
