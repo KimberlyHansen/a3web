@@ -361,6 +361,7 @@ border-radius: 25px;}
   text-align: left;
   margin-top: 2px;
   padding: 2px;
+  max-width: 10px;
 }
 
 .div3 {
@@ -376,6 +377,13 @@ border-radius: 25px;}
   text-align: left;
   margin-top: 2px;
   padding: 2px;
+}
+
+.div3 li{
+  text-align: left;
+  margin-top: 2px;
+  padding: 2px;
+  max-width: 10px;
 }
 
 .div4 {
