@@ -232,6 +232,7 @@ border-radius: 25px;}
   text-align: left;
   font-size: 20px;
   float: left;
+  overflow: auto;
 }
 
 .div2 h1{
@@ -254,6 +255,7 @@ border-radius: 25px;}
   text-align: left;
   font-size: 20px;
   float: left;
+  overflow: auto;
 } 
 
 .div3 h1{
