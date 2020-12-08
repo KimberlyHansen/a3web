@@ -294,14 +294,14 @@ ul.sticky + .content {
 
 
 .div1 {
-  height: 450px;
+  height: 350px;
   width: 45%;
   border: 1px solid red;
   float: left;
 }
 
 .div2 {
-  height: 450px;
+  height: 350px;
   width: 50%;
   border: 1px solid green;
   text-align: left;
