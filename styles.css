@@ -295,19 +295,17 @@ ul.sticky + .content {
 
 .div1 {
   height: 450px;
-  width: 500px;
+  width: 45%;
   border: 1px solid red;
-  margin: 0;
-  padding: 0;
+  float: left;
 }
 
 .div2 {
   height: 450px;
-  width: 500px;
+  width: 50%;
   border: 1px solid green;
   text-align: left;
-  margin: 0;
-  padding: 0;
+  float: right;
 }
 
 .cities {
