@@ -7,7 +7,7 @@ body {
 .content {
   text-align: center;
   font-size: 16px;
-  color:#FF7F50;
+  color:#2F6690;
   font-family: archer, arial;
   margin-top: 40px;
   padding: 16px;
@@ -429,8 +429,8 @@ div.background3 {
   background-color: #6BBAA7;
   border: 1px  #1f3631;
   opacity: 0.3;
-  float: left;
-  width: 75%;
+  float: right;
+  width: 60%;
 }
 
 div.transbox p {
