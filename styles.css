@@ -345,6 +345,7 @@ border-radius: 25px;}
   width: 50%;
   border: 1px solid green;
   text-align: left;
+  font-size: 20px;
   float: right;
 }
 
@@ -364,6 +365,8 @@ border-radius: 25px;}
   height: 350px;
   width: 100%;
   border: 1px solid red;
+  text-align: left;
+  font-size: 20px;
   float: left;
 } 
 
@@ -403,7 +406,6 @@ border-radius: 25px;}
     padding-bottom: 12px;
 }
 	
-
 .center {
   display: block;
   margin-left: auto;
