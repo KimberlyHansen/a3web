@@ -337,6 +337,11 @@ ul.sticky + .content {
   float: right;
 }
 
+.div2 h1{
+  text-align: left;
+  margin-top: 2px;
+}
+
 .div3 {
   height: 350px;
   width: 45%;
@@ -345,7 +350,6 @@ ul.sticky + .content {
 } 
 
 .div4 {
-  position: relative;
   bottom: 10px;
   width: 100%;
   font-size: 16px;
