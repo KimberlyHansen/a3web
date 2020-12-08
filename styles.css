@@ -371,3 +371,12 @@ div.transbox p {
   color: #1f3631;
 }
 
+.Information{
+  text-align: center;
+  font-size: 16px;
+  color:#2F6690;
+  font-family: archer, arial;
+  margin-top: 40px;
+  padding: 16px;
+  text-shadow: 1px;
+}
