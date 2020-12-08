@@ -162,6 +162,7 @@ ul.sticky + .content {
   font-size: 20px;
   border: none;
   font-family: archer, arial;
+  z-index:1000;
   }
 .dropdown {
   position: absolute;
@@ -426,7 +427,8 @@ div.background2 {
 div.background3 {
   background: url(Images/sunset.jpg) repeat;
   border: 2px solid black;
-  opacity:0.4;
+  opacity: 0.4;
+  position: fixed;
 }
  div.transbox {
   margin: 10px;
