@@ -7,7 +7,7 @@ body {
 .content {
   text-align: center;
   font-size: 16px;
-  color:#16425B;
+  color:#2F6690;
   font-family: archer, arial;
   margin-top: 40px;
   padding: 16px;
@@ -15,17 +15,17 @@ body {
 
 h1 {
   font-family: archer, arial;
-  font-size: 26px;
+  font-size: 40px;
   font: bold;
   text-align: center;
   padding-top: 55px;
   padding-left: 90px;
   padding-right: 100px;
-  color: #16425B;
+  color: #FF7F50;
 }
 p {
   font-family: archer, arial;
-  font-size: 20px;
+  font-size: 30px;
   font: bold;
   text-align: center;
   padding-top: 55px;
@@ -34,7 +34,7 @@ p {
   color: #16425B
 }
 h2 {
-  color: #16425B;
+  color: #FF7F50;
 }
 
 
@@ -91,7 +91,7 @@ ul.nav {
     margin: 25px;
     padding: 10px;
     overflow: hidden;
-    background-color: #2F6690;
+    background-color: #6BBAA7;
     position: fixed;
     top: 0;
     width: 100%;
@@ -108,11 +108,11 @@ li a {
   text-decoration: none;
 }
 li a:hover:not(.active) {
-  background-color: #D9DCD6;
+  background-color: #FF7F50;
   color: #16425B;
 }
 .active {
-  background-color: #16425B;
+  background-color: #FF7F50;
   color: #D9DCD6;
 }
 
@@ -190,15 +190,14 @@ ul.sticky + .content {
 .dropdown:hover .dropbtn {background-color: #2F6690;}
 
 a{
-  background-color:#2F6690;
-  color:#D9DCD6;
-  padding: 5px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 15px;
-  border-radius: 25px;
-}
+background-color: #2F6690;
+color: #D9DCD6;
+padding: 5px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 25px;}
 
  /*.flights {
   text-align: center;
@@ -346,20 +345,36 @@ a{
   width: 50%;
   border: 1px solid green;
   text-align: left;
+  font-size: 20px;
   float: right;
 }
 
 .div2 h1{
   text-align: left;
   margin-top: 2px;
+  padding: 2px;
+}
+
+.div2 li{
+  text-align: left;
+  margin-top: 2px;
+  padding: 2px;
 }
 
 .div3 {
   height: 350px;
   width: 100%;
   border: 1px solid red;
+  text-align: left;
+  font-size: 20px;
   float: left;
 } 
+
+.div3 h1{
+  text-align: left;
+  margin-top: 2px;
+  padding: 2px;
+}
 
 .div4 {
   width: 100%;
@@ -391,22 +406,31 @@ a{
     padding-bottom: 12px;
 }
 	
-
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
  }
 
- div.background {
+div.background1 {
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
 }
+div.background2 {
+  background: url(Images/trees.jpg) repeat;
+  border: 2px solid black;
+}
+div.background3 {
+  background: url(Images/sunset.jpg) repeat;
+  border: 2px solid black;
+}
  div.transbox {
-  margin: 30px;
+  margin: 10px;
   background-color: #6BBAA7;
   border: 1px  #1f3631;
-  opacity: 0.6;
+  opacity: 0.3;
+  float: right;
+  width: 60%;
 }
 
 div.transbox p {
