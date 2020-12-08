@@ -167,8 +167,6 @@ ul.sticky + .content {
   }
 .dropdown {
   position: absolute;
-  bottom:10px;
-  top:6px;
   display: inline-block;
   padding-left:100px;
   margin-top:50px
