@@ -4,6 +4,15 @@ body {
     background-color: #D9DCD6
   }
 
+content {
+  text-align: center;
+  font-size: 16px;
+  color:#16425B;
+  font-family: archer, arial;
+  margin-top: 100px;
+  padding: 16px;
+}
+
 h1 {
   font-family: archer, arial;
   font-size: 26px;
@@ -27,6 +36,7 @@ p {
 h2 {
   color: #16425B;
 }
+
 
   /* Title
 .pagetitle
@@ -72,14 +82,7 @@ h2 {
   color: #16425B;
 } */ */
 
-.content {
-  text-align: center;
-  font-size: 16px;
-  color:#16425B;
-  font-family: archer, arial;
-  margin-top: 100px;
-  padding: 16px;
-}
+
   
 
 /* Navigation bar */
