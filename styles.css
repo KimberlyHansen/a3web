@@ -318,10 +318,9 @@ border-radius: 25px;}
   margin-right: auto;
  }
 
-div.background1 {
+.background1 {
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
-  background-image: url("img_tree.gif");
   min-height: 1280px;
   background-attachment: fixed;
   background-position: center;
