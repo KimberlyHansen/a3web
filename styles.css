@@ -344,22 +344,19 @@ ul.sticky + .content {
 
 .div3 {
   height: 350px;
-  width: 45%;
+  width: 100%;
   border: 1px solid red;
   float: left;
 } 
 
 .div4 {
-  bottom: 10px;
   width: 100%;
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
   border: 1px solid green;
-}
-
-.timezones td, .timezones th {
-  border: 1px solid;
+  float:left;
+  bottom: 10px;
 }
 
 .center {
