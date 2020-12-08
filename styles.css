@@ -4,10 +4,6 @@ body {
     background-color: #D9DCD6
   }
 
-content {
-  margin-top: 100px;
-}
-
 h1 {
   font-family: archer, arial;
   font-size: 26px;
@@ -16,7 +12,8 @@ h1 {
   padding-top: 55px;
   padding-left: 90px;
   padding-right: 100px;
-  color: #16425B
+  margin-top: 100px;
+  color: #16425B;
 }
 p {
   font-family: archer, arial;
