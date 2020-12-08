@@ -340,7 +340,6 @@ div.background2 {
 div.background3 {
   background: url(Images/sunset.jpg) repeat;
   border: 2px solid black;
-  opacity: 0.4;
   position: fixed;
   width: 100%
 ;
@@ -355,8 +354,9 @@ div.background3 {
 }
 
 div.transbox p {
-  margin: 5%;
+  margin: 50px;
   font-weight: bold;
-  color: #000000;
+  opacity:1;
+  color: #1f3631;
 }
 
