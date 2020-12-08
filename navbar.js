@@ -1,13 +1,13 @@
 // navbar stick functionality by Aaron Dec. 6, 2020
 
-window.onscroll = function() {navbarSticky()};
+window.onscroll = function() {navbarSticky();};
 
 var navbar = document.getElementById("navbar");
 var sticky = navbar.offsetTop;
 
 function navbarSticky() {
     if (window.pageYOffset >= sticky) {
-        navbar.classList.add("sticky")
+        navbar.classList.add("sticky");
     } else {
         navbar.classList.remove("sticky");
     }
