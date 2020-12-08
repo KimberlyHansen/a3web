@@ -37,52 +37,6 @@ h2 {
   color: #FF7F50;
 }
 
-
-  /* Title
-.pagetitle
-h1 {
-  font-family: archer, arial;
-  font-size: 26px;
-  font: bold;
-  text-align: center;
-  padding-top: 55px;
-  padding-left: 90px;
-  padding-right: 100px;
-  color: #16425B
-}
-p {
-  font-family: archer, arial;
-  font-size: 20px;
-  font: bold;
-  text-align: center;
-  padding-top: 55px;
-  padding-left: 90px;
-  padding-right: 100px;
-  color: #16425B
-}
-h2 {
-  color: #16425B;
-}
-/* Page Body */
-/* .pagebody
-h1 {
-  font-family: archer, arial;
-  font-size: 18px;
-  text-align: center;
-  padding-top: 55px;
-  padding-left: 90px;
-  padding-right: 100px;
-  color: #16425B
-}
-p {
-  font-family: archer, arial;
-  color: #16425B
-}
-h2 {
-  color: #16425B;
-} */ 
-
-
   
 
 /* Navigation bar */
@@ -132,10 +86,6 @@ ul.sticky {
 ul.sticky + .content {
   padding-top: 5px;
 }
-
-
-
-
 
 
 /* Background video */
@@ -200,59 +150,6 @@ display: inline-block;
 font-size: 16px;
 border-radius: 25px;}
 
- /*.flights {
-  text-align: center;
-  font-size: 30px;
-  margin-top: 50px;
-  color:#FBA100;
-  font-family: archer, arial;
-  font-weight: bold;}
-
- .Hotels {
-  text-align: center;
-  font-size: 30px;
-  margin-top: 200px;
-  color:#FBA100;
-  font-family: archer, arial;}
-
- .CarRentals{
-  text-align: center;
-  font-size: 30px;
-  margin-top:200px;
-  margin-bottom: 100px;
-  color:#FBA100;
-  font-family: archer, arial;}
-  
- .plantrip {
-  text-align: center;
-  margin-top:100px;
-  font-family: archer, arial;
-  font-size: 40px;
-  font-weight: bold;
-  color:#FBA100;}*/
-
-/*CSS for Covid Page-Jessica*/ 
-/*.covid{  
-  text-align: center;
-  font-size: 16px;
-  color:#16425B;
-  font-family: archer, arial;
-  margin-top: 100px;}
-  
-.Travellers{
-  text-align: center;
-  font-size: 16px;
-  color:#16425B;
-  font-family: archer, arial;
-  margin-top:100px;}
-
-.Advice{
-  text-align: center;
-  font-size: 16px;
-  color:#16425B;
-  font-family: archer, arial;
-  margin-top:100px;}*/
-  
 
 /* Modal on Things to do page - Built by Kimberly */
 
@@ -315,7 +212,6 @@ border-radius: 25px;}
   background-color: #6BBAA7;
   color: white;
 }
-
 
 
 /* CSS for places to go page added by Aaron */
