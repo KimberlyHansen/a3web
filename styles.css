@@ -317,7 +317,8 @@ div.background1 {
   z-index: -1;
   background: url(Images/road.jpg) repeat;
   border: 2px solid black;
-  position: fixed;
+  background-position: center;
+  background-size:cover;
   width: 100%;
 }
 div.background2 {
