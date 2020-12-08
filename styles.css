@@ -72,7 +72,7 @@ p {
 }
 h2 {
   color: #16425B;
-} */ */
+} */ 
 
 
   
@@ -180,7 +180,7 @@ ul.sticky + .content {
 .dropdown-content a:hover {background-color: #2F6690;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #2F6690;}
-/*.flights {
+ .flights {
   text-align: center;
   font-size: 30px;
   margin-top: 50px;
@@ -209,10 +209,10 @@ ul.sticky + .content {
   font-family: archer, arial;
   font-size: 40px;
   font-weight: bold;
-  color:#FBA100;}*/
+  color:#FBA100;}
 
 /*CSS for Covid Page-Jessica*/ 
-/*.covid{  
+.covid{  
   text-align: center;
   font-size: 16px;
   color:#16425B;
@@ -231,7 +231,7 @@ ul.sticky + .content {
   font-size: 16px;
   color:#16425B;
   font-family: archer, arial;
-  margin-top:100px;}*/
+  margin-top:100px;}
   
 
 /* Modal on Things to do page - Built by Kimberly */
@@ -328,6 +328,8 @@ ul.sticky + .content {
   text-align: left;
   float: right;
 }
+
+.div2 
 
 .cities {
   text-align: left;
