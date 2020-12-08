@@ -373,5 +373,9 @@ div.transbox p {
   font-family: archer, arial;
   margin-top: 40px;
   padding: 16px;
-  text-shadow: 1px;
+  text-shadow: 		
+    -1px -1px 0 #ffffff,
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff;
 }
